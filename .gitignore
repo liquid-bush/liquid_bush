@@ -1,0 +1,13 @@
+.idea/
+tmp/
+output/
+*.swp
+*.orig
+.rakeTasks
+.bundle
+.DS_STORE
+.DS_Store
+*.xml
+*.pem
+*.*~
+capybara-*.html
